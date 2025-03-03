@@ -54,6 +54,7 @@ packaging==24.2
 pandas==2.2.3
 pillow==10.4.0
 portalocker==3.1.1
+protobuf
 pydantic==2.10.6
 pydantic_core==2.27.2
 pydub==0.25.1
